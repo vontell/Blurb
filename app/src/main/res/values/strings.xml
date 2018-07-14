@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blurb</string>
+
+    <string name="defaultCurrentSaying">Please swipe to the left to add a new saying, or swipe to the right to see existing sayings.</string>
+    <string name="noSayings">Please swipe all the way to the left to add a new saying</string>
+    <string name="clearButton">Clear</string>
+    <string name="saveButton">Save</string>
+    <string name="savedNotif">Your saying has been saved!</string>
+
+</resources>
